@@ -54,6 +54,7 @@
   <ItemGroup>
     <Compile Include="CVAarVisual.cs" />
     <Compile Include="CVDestructibleComponent.cs" />
+    <Compile Include="CVFlammableItem.cs" />
     <Compile Include="CVVariableArmor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="CVUniformArmor.cs" />
