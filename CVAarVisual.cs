@@ -29,6 +29,7 @@ namespace CustomVicUnityScripts
         public bool HideUntilAar;
         public Material AarMaterial;
         public bool UseGenericMaterial;
+        public bool SwitchMaterialsImmediate;
         public CVGenericAarMat GenericMaterial;
     }
 }
