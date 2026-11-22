@@ -53,6 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CVAarVisual.cs" />
+    <Compile Include="CVAnimatedPart.cs" />
     <Compile Include="CVDestructibleComponent.cs" />
     <Compile Include="CVFlammableItem.cs" />
     <Compile Include="CVVariableArmor.cs" />
